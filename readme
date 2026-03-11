@@ -1,0 +1,11 @@
+#SG#
+"gravitrap_cleaning.R"
+(i) "gravirap_processing" mosquito abundance in time seires with cleaned time index
+(ii) "gravitrap_postal" all recorded postal codes attached with latitude and longitude 
+(iii) "gravitrap_cleaned.csv" mosquito abundance in postal code attached with belonged region in time seires with cleaned time index
+
+"grid_mapping.R"
+(i) "SG_grid.csv" all recorded postal codes with attached latitude and longitude, append ISIMIP reference grid
+
+"ISIMIP3_processing.R" !!! run only with all "XX_grid.csv" is ready
+(i) "SG_gfdl-cm6a-lr_ssp126.csv" (for example) precipitation and temperature by reference grid by gcm by ssp in time seires
