@@ -7,5 +7,8 @@
 "grid_mapping.R"
 (i) "SG_grid.csv" all recorded postal codes with attached latitude and longitude, append ISIMIP reference grid
 
-"ISIMIP3_processing.R" !!! run only with all "XX_grid.csv" is ready
+"ISIMIP3_processing.R" ### run only with all "XX_grid.csv" is ready ###
 (i) "SG_gfdl-cm6a-lr_ssp126.csv" (for example) precipitation and temperature by reference grid by gcm by ssp in time seires
+
+"ISIMIP_mos_SG.R" 
+(i) "/processed_data_20260310/" mosquito abundance combined with precipitation and temperature by region by gcm by ssp in time series
