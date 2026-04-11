@@ -12,3 +12,6 @@
 
 "ISIMIP_mos_SG.R" 
 (i) "/processed_data_20260310/" mosquito abundance combined with precipitation and temperature by region by gcm by ssp in time series
+
+"worldmap.R"
+Reder the map required for historical abundance, baseline projection and intervention projection. Called by "BX_final.R", "CA_final.R" and "HA_final.R".
