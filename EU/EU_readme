@@ -1,1 +1,3 @@
-1
+"Vectabundance_v015.xlsx" is the raw data from publication.
+"EU_grid.csv" is the ISIMIP6b climate grid mapping to eupropean province.
+"processed_data_23062025/" contains the matched abundance-climate data for each european province under each climate model-SSP.
