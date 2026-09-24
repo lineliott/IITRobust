@@ -1,1 +1,4 @@
-
+"Aedes-forecast-project-2019-2020-main.zip" is the raw data from github.
+"us_county_latlng.csv" is the essensial state information of the US.
+"US_grid.csv" is the ISIMIP6b climate grid mapping to states of the US.
+"processed_data_26072025/" contains the matched abundance-climate data for each US states under each climate model-SSP.
